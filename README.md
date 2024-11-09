@@ -20,7 +20,6 @@ A curated list of the latest interview questions collections.
 
 ### Posts
 
-- (2024-11-07) [100 must know HTML interview questions and answers in 2024](https://www.turing.com/interview-questions/html)
 - (2024-10-29) [Most Important 30 HTML Interview Questions & Answers [2024]](https://www.upgrad.com/blog/html-interview-questions-answers/)
 - (2024-10-25) [HTML Interview Questions and Answers (2024) – Advanced Level](https://www.geeksforgeeks.org/html-interview-questions-answers-set-3/)
 - (2024-10-18) [Top HTML Interview Questions and Answers 2024](https://www.geeksforgeeks.org/html-interview-questions-answers-set-1/)
